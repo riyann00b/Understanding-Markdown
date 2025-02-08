@@ -12,3 +12,10 @@ Add a code example
 ```python
 print("Hello")
 ```
+
+step 4
+Make a task list
+
+- [x] task 1
+- [x] task 2
+- [ ] task 3
